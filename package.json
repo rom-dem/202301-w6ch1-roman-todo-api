@@ -1,5 +1,5 @@
 {
-  "name": "gentlemen-api",
+  "name": "todos-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "json-server gentlemen.json --port 3001"
+    "start": "json-server todos.json --port 3001"
   },
   "keywords": [],
   "author": "",
